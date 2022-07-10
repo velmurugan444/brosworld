@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+   
+}
+h1{
+  color: white;
+  font-size: 40px;
+  margin-top: 10%;
+}
+.company__logo{
+  margin-top: -2%;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
